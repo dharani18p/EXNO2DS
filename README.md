@@ -47,6 +47,7 @@ dt.describe()
 
 ```
 dt.shape
+```
 ![313065690-c54585b6-defa-4896-a665-c0aa221303b9](https://github.com/dharani18p/EXNO2DS/assets/118343366/f417f72f-437e-444e-a3a9-f739a02beec9)
 
 ```
